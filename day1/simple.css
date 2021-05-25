@@ -1,0 +1,47 @@
+
+.main
+{
+width:90%;
+margin-left:5%;
+}
+
+.font
+{
+text-align:center;	
+font-weight:bold;
+font-size:60px;
+color:#096997;
+}
+
+.links 
+{
+text-align:center;
+font-size:30px;
+text-decoration:none;
+}
+
+.links a
+{
+text-decoration:none;
+}
+
+body
+{
+background-color:#e1e1e1;
+}
+
+.form
+{
+border:4px solid black;
+
+width:60%;
+margin-left:20%;
+border-radius:4rem;
+}
+
+.form form
+{
+margin-left:35%;
+padding-bottom:5%;
+}
+
