@@ -11,9 +11,13 @@ if($marks>33)
 	{
 		echo "Grade B";
 	}
-	elseif($marks>50)
+	elseif($marks>60)
 	{
 		echo "Grade C";
+	}
+	elseif($maarks>50)
+	{
+		echo "Grade D";
 	}
   
 }
